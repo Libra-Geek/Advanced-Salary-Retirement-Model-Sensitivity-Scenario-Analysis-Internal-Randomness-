@@ -1,2 +1,2 @@
 # Advanced-Salary-Retirement-Model-Sensitivity-Scenario-Analysis-Internal-Randomness-
-A retirement planning model with salary growth, scenario analysis, and internal randomness to simulate diverse financial outcomes.
+This advanced retirement model estimates retirement timelines while accounting for salary growth, cost-of-living raises, and promotions. It includes scenario and sensitivity analyses, along with elements of randomness to simulate various financial outcomes. This allows users to explore how different factors—like salary increases, investment growth, and expenses—affect retirement readiness, offering a comprehensive view of financial planning.
